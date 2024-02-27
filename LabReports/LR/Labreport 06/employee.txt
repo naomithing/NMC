@@ -1,0 +1,22 @@
+Employee 1
+Name: Smarika
+Age: 3
+Salary: 564.88
+
+Employee 2
+Name: Karen
+Age: 8
+Salary: 5676.88
+
+Employee 3
+Name: Eren
+Age: 5
+Salary: 765.54
+
+
+Name: Tylor
+Age: 5
+Salary: 0.000000
+Name: Minnie
+Age: 7
+Salary: 0.000000
